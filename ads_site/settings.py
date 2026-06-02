@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-@1vm5+%zu*v!k+smywza$rfbq-#yvwex6w0*pf2@_orq21^s)t
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["stunning-rebirth.up.railway.app"]
 
 
 # Application definition
